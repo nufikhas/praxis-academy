@@ -1,0 +1,1266 @@
+.386=vxdfile
+.3ds=Photoshop.3DSFileType.110
+.3fr=Photoshop.3FRFile.110
+.3g2=mplayerc.3g2
+.3gp=mplayerc.3gp
+.3gp2=mplayerc.3gp2
+.3gpp=mplayerc.3gpp
+.669=Winamp.File
+.7z=WinRAR
+.8ba=Photoshop.PlugIn
+.8bc=Photoshop.PlugIn
+.8be=Photoshop.PlugIn
+.8bf=Photoshop.PlugIn
+.8bi=Photoshop.PlugIn
+.8bp=Photoshop.PlugIn
+.8bs=Photoshop.PlugIn
+.8bx=Photoshop.PlugIn
+.8by=Photoshop.PlugIn
+.8li=Photoshop.PlugIn
+.AAC=Winamp.File
+.abr=Photoshop.BrushesFile
+.ac3=mplayerc.ac3
+.acb=Photoshop.ColorBooks
+.accda=Access.ACCDAExtension.12
+.accdb=Access.Application.12
+.accdc=Access.ACCDCFile.12
+.accde=Access.ACCDEFile.12
+.accdr=Access.ACCDRFile.12
+.accdt=Access.ACCDTFile.12
+.accdu=Access.WizardUserDataFile.12
+.ace=WinRAR
+.acf=Photoshop.CustomFilterKernel
+.acl=ACLFile
+.aco=Photoshop.SwatchesFile
+.acrobatsecuritysettings=AcroExch.acrobatsecuritysettings
+.act=Photoshop.ColorTableFile
+.acv=Photoshop.CurvesFile
+.ade=Access.ADEFile.12
+.adn=Access.BlankProjectTemplate.12
+.ado=Photoshop.DuotoneSettingsFile
+.adp=Access.Project.12
+.ADT=WMP11.AssocFile.ADTS
+.ADTS=WMP11.AssocFile.ADTS
+.aex=Adobe.PremierePro.Effect.9
+.ahs=Photoshop.HalftoneScreens
+.ahu=Photoshop.HueSatFile
+.aif=Winamp.File
+.aifc=mplayerc.aifc
+.aiff=Winamp.File
+.alac=mplayerc.alac
+.alv=Photoshop.LevelsFile
+.amf=Winamp.File
+.amp=Photoshop.ArbitraryMapFile
+.amr=mplayerc.amr
+.ams=Photoshop.MonitorSetupFile
+.amv=mplayerc.amv
+.ani=anifile
+.aob=mplayerc.aob
+.ape=mplayerc.ape
+.api=Photoshop.PrintingInksFile
+.apl=Photoshop.AdobePlugIn
+.application=Application.Manifest
+.appref-ms=Application.Reference
+.arj=WinRAR
+.asa=aspfile
+.ase=Photoshop.ExchangeableSwatchFile.110
+.asf=Winamp.File
+.asl=Photoshop.Styles
+.asp=aspfile
+.ast=Photoshop.SepTablesFile
+.asv=Photoshop.ASVColAdjFile
+.asx=WMP11.AssocFile.ASX
+.atf=Photoshop.TransferFunctionsFile
+.atn=Photoshop.ActionsFile
+.au=Winamp.File
+.ava=Photoshop.VariationsFile
+.avgconfig=avgconfigfile
+.avglic=avglicfile
+.avgsounds=avgsoundsfile
+.avgtheme=avgthemefile
+.avi=Winamp.File
+.aw=AWFile
+.axt=Photoshop.AXTAdjColFile
+.bat=batfile
+.bdmv=mplayerc.bdmv
+.blg=Diagnostic.Perfmon.Document
+.blw=Photoshop.BWPresets
+.bmp=Photoshop.BMPFile.110
+.bz=WinRAR
+.bz2=WinRAR
+.c2r=MediaCenter.C2R
+.cab=WinRAR
+.caf=mplayerc.caf
+.camp=campfile
+.cat=CATFile
+.cda=Winamp.File
+.cdc=NeroCoverDesigner.Files7.cdc
+.cdmp=cdmpfile
+.cdx=aspfile
+.cer=CERFile
+.cha=Photoshop.CHAFile
+.ChessTitansSave-ms=MicrosoftChessTitansSaveFile
+.chk=chkfile
+.chm=chm.file
+.cin=Photoshop.CINFile.110
+.cmd=cmdfile
+.com=comfile
+.ComfyCakesSave-ms=MicrosoftComfyCakesSaveFile
+.compositefont=Windows.CompositeFont
+.contact=contact_wab_auto_file
+.cpl=cplfile
+.cr2=Photoshop.CameraRawFileCanon2.110
+.crd=Microsoft.InformationCard
+.crds=Microsoft.WindowsCardSpaceBackup
+.crl=CRLFile
+.crt=CERFile
+.crtx=CRTXFile
+.crw=Photoshop.CameraRawFileCanon.110
+.csh=Photoshop.CustomShapes
+.css=CSSfile
+.csv=Excel.CSV
+.cue=NeroExpress.Files7.cue
+.cur=curfile
+.dae=Photoshop.DAEFileType.110
+.db=dbfile
+.dcp=Photoshop.DNGCameraProfile.110
+.dcpr=Photoshop.DNGCameraProfileRecipe.110
+.dcr=Photoshop.CameraRawFileKodak.110
+.del=Adobe.Premiere.Edit.Decision.List.9
+.der=CERFile
+.desklink=CLSID\{9E56BE61-C50F-11CF-9A2C-00A0C90A90CE}
+.det=Outlook.File.det
+.diagcab=Diagnostic.Cabinet
+.diagcfg=Diagnostic.Config
+.diagpkg=Diagnostic.Document
+.dib=Paint.Picture
+.dic=txtfile
+.divx=mplayerc.divx
+.dll=dllfile
+.dlx=Adobe.Premiere.Movie.9
+.dng=Photoshop.CameraRawFileDigital.110
+.doc=Word.Document.8
+.dochtml=wordhtmlfile
+.docm=Word.DocumentMacroEnabled.12
+.docmhtml=wordmhtmlfile
+.docx=Word.Document.12
+.docxml=wordxmlfile
+.dot=Word.Template.8
+.dothtml=wordhtmltemplate
+.dotm=Word.TemplateMacroEnabled.12
+.dotx=Word.Template.12
+.dqy=dqyfile
+.drv=drvfile
+.dsn=MSDASQL
+.dts=mplayerc.dts
+.dv=mplayerc.dv
+.DVR=MediaCenter.DVR
+.DVR-MS=MediaCenter.DVR-MS
+.dwfx=Windows.XPSReachViewer
+.dzm=dzmfile
+.dzp=dzpfile
+.dzt=dztfile
+.eap=Photoshop.ExposureAdjustment
+.easmx=Windows.XPSReachViewer
+.edrwx=Windows.XPSReachViewer
+.elm=ELMFile
+.emf=emffile
+.EMPTYBINARYREGISTRY=OneNote
+.epf=EPFFile
+.eprtx=Windows.XPSReachViewer
+.erf=Photoshop.CameraRawFileEpson.110
+.evo=mplayerc.evo
+.evt=evtfile
+.evtx=evtxfile
+.exc=txtfile
+.exe=exefile
+.exr=Photoshop.OpenEXRFile.110
+.f4v=mplayerc.f4v
+.fad=FADFile
+.far=Winamp.File
+.fdf=AcroExch.FDFDoc
+.FDL=FDLFile
+.fdm=FDMFile
+.fff=Photoshop.FFFFile.110
+.ffo=Photoshop.FileInfo
+.fl3=Photoshop.FL3FileType.110
+.flac=mplayerc.flac
+.flv=mplayerc.flv
+.fon=fonfile
+.FreeCellSave-ms=MicrosoftFreeCellSaveFile
+.FSL=FSLFile
+.fxg=Photoshop.FXGFileType.110
+.gadget=Windows.gadget
+.gcsx=GCSXFile
+.gfs=GrooveStub
+.gif=giffile
+.glk=GrooveLinkFile
+.glox=GLOXFile
+.gmmp=gmmpfile
+.gqsx=GQSXFile
+.gra=MSGraph.Chart.8
+.grd=Photoshop.Gradients
+.group=group_wab_auto_file
+.grp=MSProgramGroup
+.grv=GrooveFile
+.gsa=GrooveSpaceArchive
+.gta=GrooveToolArchive
+.gz=WinRAR
+.H1C=h1cfile
+.H1D=h1dfile
+.H1F=h1ffile
+.H1H=h1hfile
+.H1K=h1kfile
+.H1Q=h1qfile
+.H1S=h1sfile
+.H1T=h1tfile
+.H1V=h1vfile
+.H1W=h1wfile
+.hdmov=mplayerc.hdmov
+.hdr=Photoshop.PortableBitMapFile.110
+.HeartsSave-ms=MicrosoftHeartsSaveFile
+.hlp=hlpfile
+.hol=Outlook.File.hol
+.hta=htafile
+.htm=htmlfile
+.html=htmlfile
+.hxa=MSHelp.hxa.2.5
+.hxc=MSHelp.hxc.2.5
+.hxd=MSHelp.hxd.2.5
+.hxe=MSHelp.hxe.2.5
+.hxf=MSHelp.hxf.2.5
+.hxh=MSHelp.hxh.2.5
+.hxi=MSHelp.hxi.2.5
+.hxk=MSHelp.hxk.2.5
+.hxq=MSHelp.hxq.2.5
+.hxr=MSHelp.hxr.2.5
+.hxs=MSHelp.hxs.2.5
+.hxt=MSHelp.hxt.2.5
+.hxv=MSHelp.hxv.2.5
+.hxw=MSHelp.hxa.2.5
+.ibc=Outlook.File.ibc
+.icc=icmfile
+.icl=IconLibraryFile
+.icm=icmfile
+.ico=icofile
+.ics=Outlook.File.ics
+.ifo=PowerDVD12.0IFOfile
+.IIQ=Photoshop.IIQFile.110
+.img=Windows.IsoFile
+.inf=inffile
+.infopathxml=InfoPath.Document.2
+.ini=inifile
+.iqy=iqyfile
+.iros=Photoshop.IRSettings
+.irs=Photoshop.IRSettings
+.iso=NeroExpress.Files7.iso
+.it=Winamp.File
+.itz=Winamp.File
+.jar=jarfile
+.jfif=pjpegfile
+.jnlp=JNLPFile
+.jnt=jntfile
+.Job=JobObject
+.jod=Microsoft.Jet.OLEDB.4.0
+.jpe=jpegfile
+.jpeg=jpegfile
+.jpg=jpegfile
+.js=JSFile
+.JSE=JSEFile
+.jtp=jtpfile
+.jtx=Windows.XPSReachViewer
+.KAR=Winamp.File
+.kmz=Photoshop.KMZFileType.110
+.kys=Photoshop.KYSFile.110
+.label=Label
+.laccdb=Access.LockFile.12
+.layout=Adobe.Premiere.Layout.9
+.ldb=Access.LockFile.12
+.lex=LEXFile
+.lha=WinRAR
+.library-ms=LibraryFolder
+.lnk=lnkfile
+.log=txtfile
+.lzh=WinRAR
+.m1v=mplayerc.m1v
+.m2p=mplayerc.m2p
+.M2T=mplayerc.m2t
+.M2TS=mplayerc.m2ts
+.M2V=Winamp.File
+.m3u=Winamp.PlayList
+.m4a=mplayerc.m4a
+.m4v=mplayerc.m4v
+.mad=Access.Shortcut.Module.1
+.maf=Access.Shortcut.Form.1
+.mag=Access.Shortcut.Diagram.1
+.MahjongTitansSave-ms=MicrosoftMahjongTitansSaveFile
+.mam=Access.Shortcut.Macro.1
+.mapimail=CLSID\{9E56BE60-C50F-11CF-9A2C-00A0C90A90CE}
+.maq=Access.Shortcut.Query.1
+.mar=Access.Shortcut.Report.1
+.mas=Access.Shortcut.StoredProcedure.1
+.mat=Access.Shortcut.Table.1
+.mau=Access.Shortcut.Function.1
+.mav=Access.Shortcut.View.1
+.maw=Access.Shortcut.DataAccessPage.1
+.mcl=MediaCenter.MCL
+.mda=Access.Extension.12
+.mdb=Access.MDBFile
+.mdbhtml=accesshtmlfile
+.mde=Access.MDEFile.12
+.mdn=Access.BlankDatabaseTemplate.12
+.mdt=Access.WizardDataFile.12
+.mdw=Access.Workgroup.12
+.mdz=Winamp.File
+.mef=Photoshop.MEFFile.110
+.mfp=MacromediaFlashPaper.MacromediaFlashPaper
+.mfw=Photoshop.MFWFile.110
+.mgc=MediaCatalogMGC
+.mht=mhtmlfile
+.mhtml=mhtmlfile
+.mid=Winamp.File
+.midi=Winamp.File
+.mig=migfile
+.MinesweeperSave-ms=MicrosoftMinesweeperSaveFile
+.MIZ=Winamp.File
+.mka=mplayerc.mka
+.mkv=mplayerc.mkv
+.mlc=LpkSetup.1
+.mlp=mplayerc.mlp
+.mml=MediaCatalogMML
+.mmw=MediaCatalogMMW
+.mnu=Photoshop.MenuCustomizationFile.110
+.MOD=Winamp.File
+.mos=Photoshop.CameraRawFileLeaf.110
+.mov=mplayerc.mov
+.MP1=Winamp.File
+.mp2=Winamp.File
+.mp2v=mplayerc.mp2v
+.mp3=Winamp.File
+.mp4=mplayerc.mp4
+.mp4v=mplayerc.mp4v
+.mpa=WMP11.AssocFile.MPEG
+.mpc=mplayerc.mpc
+.mpcpl=mplayerc.mpcpl
+.mpe=mplayerc.mpe
+.mpeg=Winamp.File
+.mpf=MediaPackageFile
+.mpg=Winamp.File
+.mpl=mplayerc.mpl
+.mpls=mplayerc.mpls
+.mpv2=mplayerc.mpv2
+.mpv4=mplayerc.mpv4
+.mrw=Photoshop.CameraRawFileMinolta.110
+.msc=MSCFile
+.msdvd=Windows.DVD.Maker
+.msg=Outlook.File.msg
+.msi=Msi.Package
+.msp=Msi.Patch
+.msrcincident=RemoteAssistance.1
+.msstyles=msstylesfile
+.msu=Microsoft.System.Update.1
+.mtl=Photoshop.MTLFileType.110
+.mtm=Winamp.File
+.MTS=mplayerc.mts
+.mxf=mplayerc.mxf
+.mydocs=CLSID\{ECF03A32-103D-11d2-854D-006008059367}
+.nab=NeroExpress.Files7.nab
+.ncd=NeroCoverDesigner.Files7.ncd
+.nct=NeroCoverDesigner.Files7.nct
+.ncw=NeroCoverDesigner.Files7.ncw
+.nef=Photoshop.CameraRawFileNikon.110
+.nero_scout_video=NeroScoutVideo
+.nero_search_email_result=NeroSearchEmailResult
+.nfd_audio=NFDAudio
+.nfd_data=NFDData
+.nfo=MSInfoFile
+.nhf=NeroExpress.Files7.nhf
+.nhv=NeroExpress.Files7.nhv
+.nick=NICKFile
+.nk2=NICKFile
+.nmd=NeroExpress.Files7.nmd
+.nr3=NeroExpress.Files7.nr3
+.nr4=NeroExpress.Files7.nr4
+.nra=NeroExpress.Files7.nra
+.nrb=NeroExpress.Files7.nrb
+.nrc=NeroExpress.Files7.nrc
+.nrd=NeroExpress.Files7.nrd
+.nre=NeroExpress.Files7.nre
+.nrg=NeroExpress.Files7.nrg
+.nrh=NeroExpress.Files7.nrh
+.nri=NeroExpress.Files7.nri
+.nrj=NeroExpress.Files7.nrj
+.nrm=NeroExpress.Files7.nrm
+.nrs=NeroExpress.Files7.nrs
+.nru=NeroExpress.Files7.nru
+.nrv=NeroExpress.Files7.nrv
+.nrw=Photoshop.NRWFile.110
+.NSA=Winamp.File
+.nsd=NeroExpress.Files7.nsd
+.nst=Winamp.File
+.NSV=Winamp.File
+.obj=Photoshop.OBJFileType.110
+.ocx=ocxfile
+.odc=odcfile
+.odccubefile=odccubefile
+.odcdatabasefile=odcdatabasefile
+.odcnewfile=odcnewfile
+.odctablefile=odctablefile
+.odt=odtfile
+.ofr=mplayerc.ofr
+.ofs=Outlook.File.ofs
+.oft=Outlook.Template
+.ogm=mplayerc.ogm
+.okt=Winamp.File
+.ols=OfficeListShortcut
+.one=OneNote.Section.1
+.onepkg=OneNote.Package
+.onetoc=OneNote.TableOfContents
+.onetoc2=OneNote.TableOfContents.12
+.opc=OPCFile
+.opus=mplayerc.opus
+.oqy=oqyfile
+.orf=Photoshop.CameraRawFileOlympus.110
+.osdx=opensearchdescription
+.ost=OSTFile
+.otf=otffile
+.otm=OTMFile
+.p10=P10File
+.p12=PFXFile
+.p3l=Photoshop.P3LFileType.110
+.p3m=Photoshop.P3MFileType.110
+.p3r=Photoshop.P3RFileType.110
+.p7b=SPCFile
+.p7c=certificate_wab_auto_file
+.p7m=P7MFile
+.p7r=P7RFile
+.p7s=P7SFile
+.pab=PABFile
+.pat=Photoshop.Patterns
+.pbk=pbkfile
+.pbm=Photoshop.RadianceFile.110
+.pcb=PCBFile
+.pcd=Photoshop.PCDFile.110
+.pcx=Photoshop.PCXFile.110
+.pdd=Photoshop.PDDFile.110
+.pdf=AcroExch.Document
+.pdfxml=AcroExch.pdfxml
+.pdp=Photoshop.PDPFile.110
+.pdx=PDXFileType
+.pef=Photoshop.CameraRawFilePentax.110
+.perfmoncfg=Diagnostic.Perfmon.Config
+.pfm=pfmfile
+.pfx=PFXFile
+.pif=piffile
+.pip=PIPFile
+.pko=PKOFile
+.ple=Photoshop.PLEFileType.110
+.pls=Winamp.PlayList
+.pnf=pnffile
+.png=pngfile
+.pot=PowerPoint.Template.8
+.pothtml=powerpointhtmltemplate
+.potm=PowerPoint.TemplateMacroEnabled.12
+.potx=PowerPoint.Template.12
+.ppa=PowerPoint.Addin.8
+.ppam=PowerPoint.Addin.12
+.ppj=Adobe.Premiere.Pro.Project.9
+.pproj=Adobe.Premiere.Pro.Project.9
+.pps=PowerPoint.SlideShow.8
+.ppsm=PowerPoint.SlideShowMacroEnabled.12
+.ppsx=PowerPoint.SlideShow.12
+.ppt=PowerPoint.Show.8
+.ppthtml=powerpointhtmlfile
+.pptm=PowerPoint.ShowMacroEnabled.12
+.pptmhtml=powerpointmhtmlfile
+.pptx=PowerPoint.Show.12
+.pptxml=powerpointxmlfile
+.prexport=Adobe.Premiere.Preset.9
+.prf=prffile
+.prfpset=Adobe.Premiere.Preset.9
+.printerExport=brmFile
+.prm=Adobe.Premiere.Plugin.9
+.prmp=Adobe.Premiere.Plugin.9
+.prpreset=Adobe.Premiere.Preset.9
+.prproj=Adobe.Premiere.Pro.Project.9
+.prsl=Adobe.Premiere.Style.9
+.prtl=Adobe.Premiere.Title.9
+.ps1=Microsoft.PowerShellScript.1
+.ps1xml=Microsoft.PowerShellXMLData.1
+.psb=Photoshop.PSBFile.110
+.psc1=Microsoft.PowerShellConsole.1
+.psd=Photoshop.Image.18
+.psd1=Microsoft.PowerShellData.1
+.psdt=Photoshop.PSDTFile.110
+.psf=Photoshop.ProofSetup
+.psm1=Microsoft.PowerShellModule.1
+.psp=Photoshop.PreferencesFile
+.pst=PSTFile
+.ptm=Winamp.File
+.pub=Publisher.Document.12
+.pubhtml=publisherhtmlfile
+.pubmhtml=publishermhtmlfile
+.PurblePairsSave-ms=MicrosoftPurblePairsSaveFile
+.PurbleShopSave-ms=MicrosoftPurbleShopSaveFile
+.pwz=PowerPoint.Wizard.8
+.pxr=Photoshop.PXRFile.110
+.qds=SavedDsQuery
+.r00=WinRAR
+.r01=WinRAR
+.r02=WinRAR
+.r03=WinRAR
+.r04=WinRAR
+.r05=WinRAR
+.r06=WinRAR
+.r07=WinRAR
+.r08=WinRAR
+.r09=WinRAR
+.r10=WinRAR
+.r11=WinRAR
+.r12=WinRAR
+.r13=WinRAR
+.r14=WinRAR
+.r15=WinRAR
+.r16=WinRAR
+.r17=WinRAR
+.r18=WinRAR
+.r19=WinRAR
+.r20=WinRAR
+.r21=WinRAR
+.r22=WinRAR
+.r23=WinRAR
+.r24=WinRAR
+.r25=WinRAR
+.r26=WinRAR
+.r27=WinRAR
+.r28=WinRAR
+.r29=WinRAR
+.ra=mplayerc.ra
+.raf=Photoshop.CameraRawFileFujifilm.110
+.ram=mplayerc.ram
+.rar=WinRAR
+.rat=ratfile
+.raw=Photoshop.RAWFile.110
+.RDL=RDLFIle
+.RDP=RDP.File
+.rec=mplayerc.rec
+.reg=regfile
+.rels=xmlfile
+.resmoncfg=Diagnostic.Resmon.Config
+.rev=WinRAR.REV
+.rle=rlefile
+.rll=dllfile
+.rm=mplayerc.rm
+.rmi=Winamp.File
+.rmvb=mplayerc.rmvb
+.rqy=rqyfile
+.RSL=RSLFile
+.rtf=Word.RTF.8
+.rwl=Photoshop.RWLFile.110
+.rwz=RWZFile
+.s3m=Winamp.File
+.s3z=Winamp.File
+.scf=SHCmdFile
+.scp=txtfile
+.scr=scrfile
+.sct=Photoshop.SCTFile.110
+.sdl=SDLFIle
+.search-ms=SearchFolder
+.searchConnector-ms=SearchConnectorFolder
+.secstore=AcroExch.SecStore
+.sfcache=RDBFileProperties.1
+.shc=Photoshop.ShapeCurves
+.shh=Photoshop.SHHFile.110
+.shtml=shtmlfile
+.sldm=PowerPoint.SlideMacroEnabled.12
+.sldx=PowerPoint.Slide.12
+.slk=Excel.SLK
+.slupkg-ms=MSSppPackageFile
+.snd=Winamp.File
+.SolitaireSave-ms=MicrosoftSolitaireSaveFile
+.spc=SPCFile
+.SpiderSolitaireSave-ms=MicrosoftSpiderSolitaireSaveFile
+.spl=ShockwaveFlash.ShockwaveFlash
+.spx=mplayerc.spx
+.srf=Photoshop.CameraRawFileSony.110
+.srw=Photoshop.SRWFile.110
+.SSL=SSLFile
+.sst=CertificateStoreFile
+.sta=Photoshop.STAFile.110
+.stl=STLFile
+.stm=Winamp.File
+.stz=Winamp.File
+.swf=ShockwaveFlash.ShockwaveFlash
+.sys=sysfile
+.tak=mplayerc.tak
+.tar=WinRAR
+.taz=WinRAR
+.tbz=WinRAR
+.tbz2=WinRAR
+.tga=Photoshop.TGAFile.110
+.tgz=WinRAR
+.theme=themefile
+.themepack=themepackfile
+.thmx=OfficeTheme.12
+.tif=Photoshop.TIFFFile.110
+.tiff=Photoshop.TIFFFile.110
+.tp=mplayerc.tp
+.tpl=Photoshop.ToolPresets
+.tps=mplayerc.tps
+.trp=mplayerc.trp
+.TS=mplayerc.ts
+.tta=mplayerc.tta
+.ttc=ttcfile
+.ttf=ttffile
+.TTS=WMP11.AssocFile.TTS
+.txt=txtfile
+.txz=WinRAR
+.u3d=Photoshop.U3DFileType.110
+.UDL=MSDASC
+.ult=Winamp.File
+.URL=InternetShortcut
+.uu=WinRAR
+.uue=WinRAR
+.uxdc=UXDCFILE
+.VBE=VBEFile
+.vbs=VBSFile
+.vcf=Outlook.File.vcf
+.vcg=GrooveVCard
+.vcs=Outlook.File.vcs
+.vdx=VisioViewer.Viewer
+.vob=PowerDVD12.0VOBfile
+.VOC=Winamp.File
+.vpr=Adobe.Premiere.Preset.9
+.vsd=VisioViewer.Viewer
+.vss=VisioViewer.Viewer
+.vst=VisioViewer.Viewer
+.vsx=VisioViewer.Viewer
+.vtx=VisioViewer.Viewer
+.vxd=vxdfile
+.wab=wab_auto_file
+.wal=Winamp.SkinZip
+.wav=Winamp.File
+.wax=WMP11.AssocFile.WAX
+.wbcat=wbcatfile
+.wbk=Word.Backup.8
+.wcx=wcxfile
+.wdp=wdpfile
+.webpnp=webpnpFile
+.wfp=WFPFile
+.wiz=Word.Wizard.8
+.wizhtml=accessthmltemplate
+.wll=Word.Addin.8
+.wm=WMP11.AssocFile.ASF
+.wma=Winamp.File
+.WMD=WMP11.AssocFile.WMD
+.wmdb=WMP.WMDBFile
+.wmf=wmffile
+.WMS=WMP11.AssocFile.WMS
+.wmv=Winamp.File
+.wmx=WMP11.AssocFile.ASX
+.wmz=WMP11.AssocFile.WMZ
+.wpl=WMP11.AssocFile.WPL
+.wsc=scriptletfile
+.WSF=WSFFile
+.WSH=WSHFile
+.wsz=Winamp.SkinZip
+.WTV=MediaCenter.WTVFile
+.wtx=txtfile
+.wv=mplayerc.wv
+.wvx=WMP11.AssocFile.WVX
+.x3f=Photoshop.CameraRawFileFoveon.110
+.xaml=Windows.XamlDocument
+.xbap=Windows.Xbap
+.xdp=AcroExch.XDPDoc
+.xevgenxml=XEV.GenericApp
+.xfdf=AcroExch.XFDFDoc
+.xht=xhtfile
+.xhtml=xhtmlfile
+.xla=Excel.Addin
+.xlam=Excel.AddInMacroEnabled
+.xlk=Excel.Backup
+.xll=Excel.XLL
+.xlm=Excel.Macrosheet
+.xls=Excel.Sheet.8
+.xlsb=Excel.SheetBinaryMacroEnabled.12
+.xlshtml=Excelhtmlfile
+.xlsm=Excel.SheetMacroEnabled.12
+.xlsmhtml=excelmhtmlfile
+.xlsx=Excel.Sheet.12
+.xlt=Excel.Template.8
+.xlthtml=Excelhtmltemplate
+.xltm=Excel.TemplateMacroEnabled
+.xltx=Excel.Template
+.xlw=Excel.Workspace
+.xlxml=Excelxmlss
+.xm=Winamp.File
+.xml=xmlfile
+.xmz=Winamp.File
+.xps=Windows.XPSReachViewer
+.xrm-ms=MSSppLicenseFile
+.xsf=InfoPath.SolutionManifest.2
+.xsl=xslfile
+.xsn=InfoPath.Solution.2
+.xst=PSTFile
+.xtp=XTPFile
+.xxe=WinRAR
+.xz=WinRAR
+.z=WinRAR
+.zfsendtotarget=CLSID\{888DCA60-FC0A-11CF-8F0F-00C04FD7D062}
+.zip=WinRAR.ZIP
+A            C:\Users\user\.youtube-upload-credentials.json
+A  SH   I    C:\Users\user\ntuser.dat
+A  SH        C:\Users\user\ntuser.dat.LOG1
+A  SH        C:\Users\user\ntuser.dat.LOG2
+A  SH        C:\Users\user\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+A  SH        C:\Users\user\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+A  SH        C:\Users\user\NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+A  SH        C:\Users\user\ntuser.dat{6bcbda5c-dcf9-11e9-94ca-844bf5d522d8}.TM.blf
+A  SH        C:\Users\user\ntuser.dat{6bcbda5c-dcf9-11e9-94ca-844bf5d522d8}.TMContainer00000000000000000001.regtrans-ms
+A  SH        C:\Users\user\ntuser.dat{6bcbda5c-dcf9-11e9-94ca-844bf5d522d8}.TMContainer00000000000000000002.regtrans-ms
+   SH        C:\Users\user\ntuser.ini
+
+Windows Boot Manager
+--------------------
+identifier              {bootmgr}
+device                  partition=\Device\HarddiskVolume1
+description             Windows Boot Manager
+locale                  en-US
+inherit                 {globalsettings}
+default                 {current}
+resumeobject            {7caeb5fa-c9e1-11e5-82d0-8b3d47f31094}
+displayorder            {current}
+toolsdisplayorder       {memdiag}
+timeout                 30
+
+Windows Boot Loader
+-------------------
+identifier              {current}
+device                  partition=C:
+path                    \Windows\system32\winload.exe
+description             Windows 7
+locale                  en-US
+inherit                 {bootloadersettings}
+recoverysequence        {7caeb5fc-c9e1-11e5-82d0-8b3d47f31094}
+recoveryenabled         Yes
+osdevice                partition=C:
+systemroot              \Windows
+resumeobject            {7caeb5fa-c9e1-11e5-82d0-8b3d47f31094}
+nx                      OptIn
+
+ Listing C:\Users\user\
+ New files added to this directory will not be compressed.
+
+     1682 :      1682 = 1.0 to 1   .youtube-upload-credentials.json
+        0 :         0 = 1.0 to 1   Contacts
+        0 :         0 = 1.0 to 1   Desktop
+        0 :         0 = 1.0 to 1   Documents
+        0 :         0 = 1.0 to 1   Downloads
+        0 :         0 = 1.0 to 1   Favorites
+        0 :         0 = 1.0 to 1   Links
+        0 :         0 = 1.0 to 1   Music
+        0 :         0 = 1.0 to 1   Pictures
+        0 :         0 = 1.0 to 1   Saved Games
+        0 :         0 = 1.0 to 1   Searches
+        0 :         0 = 1.0 to 1   Videos
+
+Of 33 files within 1 directories
+0 are compressed and 33 are not compressed.
+5,637,798 total bytes of data are stored in 5,637,798 bytes.
+The compression ratio is 1.0 to 1.
+
+The syntax of the command is incorrect.
+The current date is: Wed 10/16/2019 
+Enter the new date: (mm-dd-yy) The system cannot accept the date entered.
+Enter the new date: (mm-dd-yy)  Volume in drive C has no label.
+ Volume Serial Number is 2E0F-9585
+
+ Directory of C:\Users\user
+
+09/22/2019  12:26 PM    <DIR>          .
+09/22/2019  12:26 PM    <DIR>          ..
+05/19/2019  02:28 AM             1,682 .youtube-upload-credentials.json
+02/02/2016  11:24 AM    <DIR>          Contacts
+10/16/2019  12:52 PM    <DIR>          Desktop
+10/12/2019  08:30 PM    <DIR>          Documents
+10/14/2019  10:09 AM    <DIR>          Downloads
+02/02/2016  11:24 AM    <DIR>          Favorites
+02/02/2016  11:24 AM    <DIR>          Links
+02/02/2016  11:24 AM    <DIR>          Music
+09/18/2019  12:21 AM    <DIR>          Pictures
+02/02/2016  11:24 AM    <DIR>          Saved Games
+02/02/2016  11:24 AM    <DIR>          Searches
+05/19/2019  02:36 AM    <DIR>          Videos
+               1 File(s)          1,682 bytes
+              13 Dir(s)  34,077,827,072 bytes free
+
+Invalid drive specification.
+The specified drive does not exist
+or is non-removable.
+
+Invalid drive specification.
+The specified drive does not exist
+or is non-removable.
+
+Module Name  Display Name           Driver Type   Link Date             
+============ ====================== ============= ======================
+1394ohci     1394 OHCI Compliant Ho Kernel        11/20/2010 5:44:56 PM 
+ACPI         Microsoft ACPI Driver  Kernel        11/20/2010 4:19:16 PM 
+AcpiPmi      ACPI Power Meter Drive Kernel        11/20/2010 4:30:42 PM 
+adp94xx      adp94xx                Kernel        12/6/2008 6:54:42 AM  
+adpahci      adpahci                Kernel        5/2/2007 12:30:09 AM  
+adpu320      adpu320                Kernel        2/28/2007 7:04:15 AM  
+AFD          Ancillary Function Dri Kernel        11/20/2010 4:23:27 PM 
+agp440       Intel AGP Bus Filter   Kernel        7/14/2009 6:38:43 AM  
+aliide       aliide                 Kernel        7/14/2009 6:19:47 AM  
+amdide       amdide                 Kernel        7/14/2009 6:19:49 AM  
+AmdK8        AMD K8 Processor Drive Kernel        7/14/2009 6:19:25 AM  
+AmdPPM       AMD Processor Driver   Kernel        7/14/2009 6:19:25 AM  
+amdsata      amdsata                Kernel        3/19/2010 7:45:17 AM  
+amdsbs       amdsbs                 Kernel        3/21/2009 1:36:03 AM  
+amdxata      amdxata                Kernel        3/19/2010 11:18:18 PM 
+AppID        AppID Driver           Kernel        11/20/2010 5:14:37 PM 
+arc          arc                    Kernel        5/25/2007 4:27:55 AM  
+arcsas       arcsas                 Kernel        1/15/2009 2:27:37 AM  
+AsyncMac     RAS Asynchronous Media Kernel        7/14/2009 7:10:13 AM  
+atapi        IDE Channel            Kernel        7/14/2009 6:19:47 AM  
+athr         Atheros Extensible Wir Kernel        11/27/2012 11:17:58 AM
+avgArDisk    avgArDisk              Kernel        9/6/2019 5:09:53 PM   
+avgArPot     avgArPot               Kernel        9/6/2019 5:09:54 PM   
+avgbidsdrive avgbidsdriver          File System   9/6/2019 4:31:17 PM   
+avgbidsh     avgbidsh               File System   9/6/2019 4:31:15 PM   
+avgbuniv     avgbuniv               File System   9/6/2019 4:30:56 PM   
+avgKbd       avgKbd                 Kernel        9/6/2019 5:09:55 PM   
+avgMonFlt    avgMonFlt              File System   9/6/2019 5:09:55 PM   
+avgRdr       avgRdr                 Kernel        9/6/2019 5:09:58 PM   
+avgRvrt      avgRvrt                Kernel        9/6/2019 5:09:54 PM   
+avgSnx       avgSnx                 File System   9/26/2019 7:03:04 PM  
+avgSP        avgSP                  File System   9/26/2019 7:03:19 PM  
+avgStm       avgStm                 Kernel        9/6/2019 5:10:17 PM   
+avgVmm       avgVmm                 Kernel        9/6/2019 5:09:55 PM   
+b06bdrv      Broadcom NetXtreme II  Kernel        2/14/2009 5:18:07 AM  
+b57nd60a     Broadcom NetXtreme Gig Kernel        4/26/2009 6:14:55 PM  
+Beep         Beep                   Kernel        7/14/2009 7:00:13 AM  
+blbdrive     blbdrive               Kernel        7/14/2009 6:35:59 AM  
+bowser       Browser Support Driver File System   7/14/2009 6:23:50 AM  
+BrFiltLo     Brother USB Mass-Stora Kernel        8/7/2006 8:51:06 AM   
+BrFiltUp     Brother USB Mass-Stora Kernel        8/7/2006 8:51:02 AM   
+Brserid      Brother MFC Serial Por Kernel        8/7/2006 8:51:11 AM   
+BrSerWdm     Brother WDM Serial dri Kernel        8/7/2006 8:51:05 AM   
+BrUsbMdm     Brother MFC USB Fax On Kernel        8/7/2006 8:51:00 AM   
+BrUsbSer     Brother MFC USB Serial Kernel        8/9/2006 7:11:02 PM   
+BthEnum      Bluetooth Enumerator S Kernel        7/14/2009 7:06:52 AM  
+BTHMODEM     Bluetooth Serial Commu Kernel        7/14/2009 7:06:52 AM  
+BthPan       Bluetooth Device (Pers Kernel        7/14/2009 7:07:00 AM  
+BTHPORT      Bluetooth Port Driver  Kernel        11/20/2010 5:44:51 PM 
+BTHUSB       Bluetooth Radio USB Dr Kernel        11/20/2010 5:44:33 PM 
+cdfs         CD/DVD File System Rea File System   7/14/2009 6:19:46 AM  
+cdrom        CD-ROM Driver          Kernel        11/20/2010 4:19:20 PM 
+circlass     Consumer IR Devices    Kernel        7/14/2009 7:06:34 AM  
+CLFS         Common Log (CLFS)      Kernel        7/14/2009 6:19:57 AM  
+clwvd        CyberLink WebCam Virtu Kernel        7/28/2010 8:13:47 AM  
+CmBatt       Microsoft ACPI Control Kernel        7/14/2009 6:31:03 AM  
+cmdide       cmdide                 Kernel        7/14/2009 6:19:48 AM  
+CNG          CNG                    Kernel        11/20/2010 5:08:45 PM 
+Compbatt     Microsoft Composite Ba Kernel        7/14/2009 6:31:02 AM  
+CompositeBus Composite Bus Enumerat Kernel        11/20/2010 5:33:17 PM 
+crcdisk      Crcdisk Filter Driver  Kernel        7/14/2009 7:01:14 AM  
+CSC          Offline Files Driver   Kernel        11/20/2010 4:27:12 PM 
+DfsC         DFS Namespace Client D File System   11/20/2010 4:26:31 PM 
+discache     System Attribute Cache Kernel        7/14/2009 6:37:18 AM  
+Disk         Disk Driver            Kernel        7/14/2009 6:19:57 AM  
+dmvsc        dmvsc                  Kernel        11/20/2010 4:57:43 PM 
+drmkaud      Microsoft Trusted Audi Kernel        7/14/2009 7:06:16 AM  
+DXGKrnl      LDDM Graphics Subsyste Kernel        11/20/2010 4:50:50 PM 
+ebdrv        Broadcom NetXtreme II  Kernel        12/31/2008 11:29:28 PM
+elxstor      elxstor                Kernel        2/4/2009 5:52:11 AM   
+ErrDev       Microsoft Hardware Err Kernel        7/14/2009 6:31:04 AM  
+exfat        exFAT File System Driv File System   7/14/2009 6:23:29 AM  
+fastfat      FAT12/16/32 File Syste File System   7/14/2009 6:23:28 AM  
+fdc          Floppy Disk Controller Kernel        7/14/2009 7:00:54 AM  
+FileInfo     File Information FS Mi File System   7/14/2009 6:34:25 AM  
+Filetrace    Filetrace              File System   7/14/2009 6:25:40 AM  
+flpydisk     Floppy Disk Driver     Kernel        7/14/2009 7:00:54 AM  
+FltMgr       FltMgr                 File System   11/20/2010 4:19:24 PM 
+FsDepends    File System Dependency File System   7/14/2009 6:26:13 AM  
+fvevol       Bitlocker Drive Encryp Kernel        11/20/2010 4:24:06 PM 
+gagp30kx     Microsoft Generic AGPv Kernel        7/14/2009 6:38:43 AM  
+hcw85cir     Hauppauge Consumer Inf Kernel        5/11/2009 3:26:00 PM  
+HdAudAddServ Microsoft 1.1 UAA Func Kernel        11/20/2010 5:44:23 PM 
+HDAudBus     Microsoft UAA Bus Driv Kernel        11/20/2010 5:43:42 PM 
+HidBatt      HID UPS Battery Driver Kernel        7/14/2009 6:31:06 AM  
+HidBth       Microsoft Bluetooth HI Kernel        7/14/2009 7:06:52 AM  
+HidIr        Microsoft Infrared HID Kernel        7/14/2009 7:06:23 AM  
+HidUsb       Microsoft HID Class Dr Kernel        11/20/2010 5:43:49 PM 
+HpSAMD       HpSAMD                 Kernel        4/21/2010 1:32:18 AM  
+HTTP         HTTP                   Kernel        11/20/2010 4:24:30 PM 
+hwpolicy     Hardware Policy Driver Kernel        11/20/2010 4:18:54 PM 
+i8042prt     i8042 Keyboard and PS/ Kernel        7/14/2009 6:19:57 AM  
+iaStorA      iaStorA                Kernel        3/6/2013 12:49:05 AM  
+iaStorF      iaStorF                Kernel        3/6/2013 12:49:08 AM  
+iaStorV      iaStorV                Kernel        6/11/2010 7:46:19 AM  
+IDMWFP       IDMWFP                 Kernel        4/17/2015 11:06:19 PM 
+igfx         igfx                   Kernel        12/13/2012 7:42:26 AM 
+iirsp        iirsp                  Kernel        12/14/2005 4:47:54 AM 
+IntcAzAudAdd Service for Realtek HD Kernel        5/31/2011 4:18:41 PM  
+IntcDAud     Intel(R) Display Audio Kernel        5/22/2013 9:52:52 PM  
+intelide     intelide               Kernel        7/14/2009 6:19:48 AM  
+intelppm     Intel Processor Driver Kernel        7/14/2009 6:19:25 AM  
+IpFilterDriv IP Traffic Filter Driv Kernel        11/20/2010 5:52:19 PM 
+IPMIDRV      IPMIDRV                Kernel        11/20/2010 5:04:53 PM 
+IPNAT        IP Network Address Tra Kernel        7/14/2009 7:10:03 AM  
+IRENUM       IR Bus Enumerator      Kernel        7/14/2009 7:08:59 AM  
+isapnp       isapnp                 Kernel        7/14/2009 6:31:08 AM  
+iScsiPrt     iScsiPort Driver       Kernel        11/20/2010 5:35:14 PM 
+iusb3xhc     Intel(R) USB 3.0 eXten Kernel        7/18/2013 3:40:32 PM  
+kbdclass     Keyboard Class Driver  Kernel        7/14/2009 6:19:50 AM  
+kbdhid       Keyboard HID Driver    Kernel        11/20/2010 5:33:25 PM 
+KSecDD       KSecDD                 Kernel        11/20/2010 4:21:15 PM 
+KSecPkg      KSecPkg                Kernel        11/20/2010 5:10:34 PM 
+ksthunk      Kernel Streaming Thunk Kernel        7/14/2009 7:00:19 AM  
+lltdio       Link-Layer Topology Di Kernel        7/14/2009 7:08:50 AM  
+LSI_FC       LSI_FC                 Kernel        12/10/2008 5:46:09 AM 
+LSI_SAS      LSI_SAS                Kernel        5/19/2009 7:20:23 AM  
+LSI_SAS2     LSI_SAS2               Kernel        5/19/2009 7:31:48 AM  
+LSI_SCSI     LSI_SCSI               Kernel        4/17/2009 5:13:50 AM  
+luafv        UAC File Virtualizatio File System   7/14/2009 6:26:13 AM  
+megasas      megasas                Kernel        5/19/2009 8:09:46 AM  
+MegaSR       MegaSR                 Kernel        5/19/2009 8:25:54 AM  
+MEIx64       Intel(R) Management En Kernel        12/18/2012 2:32:21 AM 
+Modem        Modem                  Kernel        7/14/2009 7:10:48 AM  
+monitor      Microsoft Monitor Clas Kernel        7/14/2009 6:38:52 AM  
+mouclass     Mouse Class Driver     Kernel        7/14/2009 6:19:50 AM  
+mouhid       Mouse HID Driver       Kernel        7/14/2009 7:00:20 AM  
+mountmgr     Mount Point Manager    Kernel        11/20/2010 4:19:21 PM 
+mpio         mpio                   Kernel        11/20/2010 5:35:38 PM 
+mpsdrv       Windows Firewall Autho Kernel        7/14/2009 7:08:25 AM  
+MRxDAV       WebDav Client Redirect File System   11/20/2010 4:26:42 PM 
+mrxsmb       SMB MiniRedirector Wra File System   11/20/2010 4:27:41 PM 
+mrxsmb10     SMB 1.x MiniRedirector File System   11/20/2010 4:26:53 PM 
+mrxsmb20     SMB 2.0 MiniRedirector File System   11/20/2010 4:26:47 PM 
+msahci       msahci                 Kernel        11/20/2010 5:33:58 PM 
+msdsm        msdsm                  Kernel        11/20/2010 5:35:34 PM 
+Msfs         Msfs                   File System   7/14/2009 6:19:47 AM  
+mshidkmdf    Pass-through HID to KM Kernel        7/14/2009 7:06:24 AM  
+msisadrv     msisadrv               Kernel        7/14/2009 6:19:26 AM  
+MSKSSRV      Microsoft Streaming Se Kernel        7/14/2009 7:00:18 AM  
+MSPCLOCK     Microsoft Streaming Cl Kernel        7/14/2009 7:00:17 AM  
+MSPQM        Microsoft Streaming Qu Kernel        7/14/2009 7:00:17 AM  
+MsRPC        MsRPC                  Kernel        11/20/2010 4:21:56 PM 
+mssmbios     Microsoft System Manag Kernel        7/14/2009 6:31:10 AM  
+MSTEE        Microsoft Streaming Te Kernel        7/14/2009 7:00:17 AM  
+MTConfig     Microsoft Input Config Kernel        7/14/2009 7:02:08 AM  
+Mup          Mup                    File System   7/14/2009 6:23:45 AM  
+NativeWifiP  NativeWiFi Filter      Kernel        7/14/2009 7:07:23 AM  
+NDIS         NDIS System Driver     Kernel        11/20/2010 4:23:30 PM 
+NdisCap      NDIS Capture LightWeig Kernel        7/14/2009 7:08:12 AM  
+NdisTapi     Remote Access NDIS TAP Kernel        7/14/2009 7:10:00 AM  
+Ndisuio      NDIS Usermode I/O Prot Kernel        11/20/2010 5:50:08 PM 
+NdisWan      Remote Access NDIS WAN Kernel        11/20/2010 5:52:32 PM 
+NDProxy      NDIS Proxy             Kernel        11/20/2010 5:52:20 PM 
+NetBIOS      NetBIOS Interface      File System   7/14/2009 7:09:26 AM  
+NetBT        NetBT                  Kernel        11/20/2010 4:23:18 PM 
+nfrd960      nfrd960                Kernel        6/7/2006 4:11:48 AM   
+Npfs         Npfs                   File System   7/14/2009 6:19:48 AM  
+nsiproxy     NSI proxy service driv Kernel        7/14/2009 6:21:02 AM  
+Ntfs         Ntfs                   File System   11/20/2010 4:20:57 PM 
+ntk_PowerDVD ntk_PowerDVD12         Kernel        5/12/2011 7:30:24 PM  
+Null         Null                   Kernel        7/14/2009 6:19:37 AM  
+nvraid       nvraid                 Kernel        3/20/2010 3:59:20 AM  
+nvstor       nvstor                 Kernel        3/20/2010 3:45:11 AM  
+nv_agp       NVIDIA nForce AGP Bus  Kernel        7/14/2009 6:38:44 AM  
+ohci1394     1394 OHCI Compliant Ho Kernel        7/14/2009 7:06:45 AM  
+Parport      Parallel port driver   Kernel        7/14/2009 7:00:40 AM  
+partmgr      Partition Manager      Kernel        11/20/2010 4:20:00 PM 
+pci          PCI Bus Driver         Kernel        11/20/2010 4:19:11 PM 
+pciide       pciide                 Kernel        7/14/2009 6:19:49 AM  
+pcmcia       pcmcia                 Kernel        7/14/2009 6:31:10 AM  
+pcw          Performance Counters f Kernel        7/14/2009 6:19:27 AM  
+PEAUTH       PEAUTH                 Kernel        7/14/2009 8:01:19 AM  
+PptpMiniport WAN Miniport (PPTP)    Kernel        11/20/2010 5:52:31 PM 
+Processor    Processor Driver       Kernel        7/14/2009 6:19:25 AM  
+Psched       QoS Packet Scheduler   Kernel        11/20/2010 5:52:18 PM 
+ql2300       ql2300                 Kernel        1/23/2009 6:05:06 AM  
+ql40xx       ql40xx                 Kernel        5/19/2009 8:18:11 AM  
+QWAVEdrv     QWAVE driver           Kernel        7/14/2009 7:09:48 AM  
+RasAcd       Remote Access Auto Con Kernel        7/14/2009 7:10:09 AM  
+RasAgileVpn  WAN Miniport (IKEv2)   Kernel        7/14/2009 7:10:24 AM  
+Rasl2tp      WAN Miniport (L2TP)    Kernel        11/20/2010 5:52:34 PM 
+RasPppoe     Remote Access PPPOE Dr Kernel        7/14/2009 7:10:17 AM  
+RasSstp      WAN Miniport (SSTP)    Kernel        7/14/2009 7:10:25 AM  
+rdbss        Redirected Buffering S File System   11/20/2010 4:27:51 PM 
+rdpbus       Remote Desktop Device  Kernel        7/14/2009 7:17:46 AM  
+RDPCDD       RDPCDD                 Kernel        7/14/2009 7:16:34 AM  
+RDPDR        Terminal Server Device Kernel        11/20/2010 6:06:41 PM 
+RDPENCDD     RDP Encoder Mirror Dri Kernel        7/14/2009 7:16:34 AM  
+RDPREFMP     Reflector Display Driv Kernel        7/14/2009 7:16:35 AM  
+RdpVideoMini Remote Desktop Video M Kernel        11/20/2010 6:03:42 PM 
+RDPWD        RDP Winstation Driver  Kernel        11/20/2010 6:04:37 PM 
+rdyboost     ReadyBoost             Kernel        11/20/2010 4:43:10 PM 
+RFCOMM       Bluetooth Device (RFCO Kernel        7/14/2009 7:06:56 AM  
+RSPCIESTOR   Realtek PCIE CardReade Kernel        7/27/2012 5:08:53 PM  
+rspndr       Link-Layer Topology Di Kernel        7/14/2009 7:08:50 AM  
+RTL8167      Realtek 8167 NT Driver Kernel        6/18/2013 2:52:16 PM  
+s3cap        s3cap                  Kernel        11/20/2010 4:57:33 PM 
+sbp2port     sbp2port               Kernel        11/20/2010 4:19:21 PM 
+scfilter     Smart card PnP Class F Kernel        11/20/2010 5:09:59 PM 
+sdbus        sdbus                  Kernel        11/20/2010 4:37:42 PM 
+secdrv       Security Driver        Kernel        9/13/2006 8:18:38 PM  
+Serenum      Serenum Filter Driver  Kernel        7/14/2009 7:00:33 AM  
+Serial       Serial                 Kernel        7/14/2009 7:00:40 AM  
+sermouse     Serial Mouse Driver    Kernel        7/14/2009 7:00:20 AM  
+SFEP         Sony Firmware Extensio Kernel        11/27/2009 12:39:13 PM
+sffdisk      SFF Storage Class Driv Kernel        7/14/2009 7:01:01 AM  
+sffp_mmc     SFF Storage Protocol D Kernel        7/14/2009 7:01:03 AM  
+sffp_sd      SFF Storage Protocol D Kernel        11/20/2010 5:34:00 PM 
+sfloppy      High-Capacity Floppy D Kernel        7/14/2009 7:01:02 AM  
+SiSRaid2     SiSRaid2               Kernel        9/25/2008 1:28:20 AM  
+SiSRaid4     SiSRaid4               Kernel        10/2/2008 4:56:04 AM  
+Smb          Message-oriented TCP/I Kernel        7/14/2009 7:09:09 AM  
+spldr        Security Processor Loa Kernel        5/11/2009 11:56:27 PM 
+srv          Server SMB 1.xxx Drive File System   11/20/2010 4:28:05 PM 
+srv2         Server SMB 2.xxx Drive File System   11/20/2010 4:27:43 PM 
+srvnet       srvnet                 File System   11/20/2010 4:27:20 PM 
+stexstor     stexstor               Kernel        2/18/2009 6:03:36 AM  
+storflt      Disk Virtual Machine B Kernel        11/20/2010 4:57:30 PM 
+storvsc      storvsc                Kernel        11/20/2010 4:57:32 PM 
+swenum       Software Bus Driver    Kernel        7/14/2009 7:00:18 AM  
+Synth3dVsc   Synth3dVsc             Kernel        11/20/2010 6:07:13 PM 
+Tcpip        TCP/IP Protocol Driver Kernel        11/20/2010 4:25:52 PM 
+TCPIP6       Microsoft IPv6 Protoco Kernel        11/20/2010 4:25:52 PM 
+tcpipreg     TCP/IP Registry Compat Kernel        11/20/2010 5:51:48 PM 
+TDPIPE       TDPIPE                 Kernel        7/14/2009 7:16:32 AM  
+TDTCP        TDTCP                  Kernel        7/14/2009 7:16:32 AM  
+tdx          NetIO Legacy TDI Suppo Kernel        11/20/2010 4:21:54 PM 
+TermDD       Terminal Device Driver Kernel        11/20/2010 6:03:40 PM 
+terminpt     Microsoft Remote Deskt Kernel        11/20/2010 6:03:43 PM 
+tssecsrv     Remote Desktop Service Kernel        11/20/2010 6:04:09 PM 
+TsUsbFlt     TsUsbFlt               Kernel        11/20/2010 6:07:04 PM 
+TsUsbGD      Remote Desktop Generic Kernel        11/20/2010 6:07:04 PM 
+tsusbhub     tsusbhub               Kernel        11/20/2010 6:07:10 PM 
+tunnel       Microsoft Tunnel Minip Kernel        11/20/2010 5:51:50 PM 
+uagp35       Microsoft AGPv3.5 Filt Kernel        7/14/2009 6:38:43 AM  
+udfs         udfs                   File System   11/20/2010 4:26:11 PM 
+uliagpkx     Uli AGP Bus Filter     Kernel        7/14/2009 6:38:48 AM  
+umbus        UMBus Enumerator Drive Kernel        11/20/2010 5:44:37 PM 
+UmPass       Microsoft UMPass Drive Kernel        7/14/2009 7:06:52 AM  
+usbccgp      Microsoft USB Generic  Kernel        11/20/2010 5:44:03 PM 
+usbcir       eHome Infrared Receive Kernel        7/14/2009 7:06:36 AM  
+usbehci      Microsoft USB 2.0 Enha Kernel        11/20/2010 5:43:54 PM 
+usbhub       Microsoft USB Standard Kernel        11/20/2010 5:44:30 PM 
+usbohci      Microsoft USB Open Hos Kernel        7/14/2009 7:06:30 AM  
+usbprint     Microsoft USB PRINTER  Kernel        7/14/2009 7:38:18 AM  
+USBSTOR      USB Mass Storage Drive Kernel        11/20/2010 5:44:05 PM 
+usbuhci      Microsoft USB Universa Kernel        7/14/2009 7:06:27 AM  
+usbvideo     USB Video Device (WDM) Kernel        11/20/2010 5:44:34 PM 
+vdrvroot     Microsoft Virtual Driv Kernel        7/14/2009 7:01:31 AM  
+vga          vga                    Kernel        7/14/2009 6:38:47 AM  
+VgaSave      VgaSave                Kernel        7/14/2009 6:38:47 AM  
+vhdmp        vhdmp                  Kernel        11/20/2010 5:35:36 PM 
+viaide       viaide                 Kernel        7/14/2009 6:19:50 AM  
+vmbus        vmbus                  Kernel        11/20/2010 4:57:29 PM 
+VMBusHID     VMBusHID               Kernel        11/20/2010 4:57:13 PM 
+volmgr       Volume Manager Driver  Kernel        11/20/2010 4:19:28 PM 
+volmgrx      Dynamic Volume Manager Kernel        11/20/2010 4:20:43 PM 
+volsnap      Storage volumes        Kernel        11/20/2010 4:20:08 PM 
+vsmraid      vsmraid                Kernel        1/31/2009 8:18:57 AM  
+vwifibus     Virtual WiFi Bus Drive Kernel        7/14/2009 7:07:21 AM  
+vwififlt     Virtual WiFi Filter Dr Kernel        7/14/2009 7:07:22 AM  
+vwifimp      Microsoft Virtual WiFi Kernel        7/14/2009 7:07:28 AM  
+WacomPen     Wacom Serial Pen HID D Kernel        7/14/2009 7:02:07 AM  
+WANARP       Remote Access IP ARP D Kernel        11/20/2010 5:52:36 PM 
+Wanarpv6     Remote Access IPv6 ARP Kernel        11/20/2010 5:52:36 PM 
+Wd           Wd                     Kernel        7/14/2009 6:19:55 AM  
+Wdf01000     Kernel Mode Driver Fra Kernel        7/14/2009 6:22:07 AM  
+WfpLwf       WFP Lightweight Filter Kernel        7/14/2009 7:09:26 AM  
+WIMMount     WIMMount               File System   7/14/2009 6:29:31 AM  
+WinUsb       WinUsb                 Kernel        11/20/2010 5:43:56 PM 
+WmiAcpi      Microsoft Windows Mana Kernel        7/14/2009 6:31:02 AM  
+ws2ifsl      Winsock IFS Driver     Kernel        7/14/2009 7:10:33 AM  
+WudfPf       User Mode Driver Frame Kernel        11/20/2010 5:42:44 PM 
+WUDFRd       WUDFRd                 Kernel        11/20/2010 5:43:32 PM 
+{329F96B6-DF Power Control [2016/02 Kernel        9/26/2008 8:11:22 PM  
+Required parameter missing -
+
+GPRESULT [/S system [/U username [/P [password]]]] [/SCOPE scope]
+           [/USER targetusername] [/R | /V | /Z] [(/X | /H) <filename> [/F]]
+
+Description:
+    This command line tool displays the Resultant Set of Policy (RSoP)
+    information for a target user and computer.
+
+Parameter List:
+    /S        system           Specifies the remote system to connect to.
+
+    /U        [domain\]user    Specifies the user context under which the
+                               command should execute.
+                               Can not be used with /X, /H.
+
+    /P        [password]       Specifies the password for the given user
+                               context. Prompts for input if omitted.
+                               Can not be used with /X, /H.
+
+    /SCOPE    scope            Specifies whether the user or the
+                               computer settings needs to be displayed.
+                               Valid values: "USER", "COMPUTER".
+
+    /USER     [domain\]user    Specifies the user name for which the
+                               RSOP data is to be displayed.
+
+    /X        <filename>       Saves the report in XML format at the
+                               location and with the file name specified
+                               by the <filename> parameter. (valid in Windows
+                               Vista SP1 and above and Windows Server 2008 and above)
+
+    /H        <filename>       Saves the report in HTML format at the
+                               location and with the file name specified by
+                               the <filename> parameter. (valid in Windows
+                               Vista SP1 and above and Windows Server 2008 and above)
+
+    /F                         Forces gpresult to overwrite the file name
+                               specified in the /X or /H command.
+
+    /R                         Displays RSoP summary data.
+
+    /V                         Specifies that verbose information should
+                               be displayed. Verbose information provides
+                               additional detailed settings that have
+                               been applied with a precedence of 1.
+
+    /Z                         Specifies that the super-verbose
+                               information should be displayed. Super-
+                               verbose information provides additional
+                               detailed settings that have been applied
+                               with a precedence of 1 and higher. This
+                               allows you to see if a setting was set in
+                               multiple places. See the Group Policy
+                               online help topic for more information.
+
+    /?                         Displays this help message.
+
+
+Examples:
+    GPRESULT /R
+    GPRESULT /H GPReport.html
+    GPRESULT /USER targetusername /V
+    GPRESULT /S system /USER targetusername /SCOPE COMPUTER /Z
+    GPRESULT /S system /U username /P password /SCOPE USER /V
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+DATE           Displays or sets the date.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKCOMP       Compares the contents of two floppy disks.
+DISKCOPY       Copies the contents of one floppy disk to another.
+DISKPART       Displays or configures Disk Partition properties.
+DOSKEY         Edits command lines, recalls Windows commands, and 
+               creates macros.
+DRIVERQUERY    Displays current device driver status and properties.
+ECHO           Displays messages, or turns command echoing on or off.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+ERASE          Deletes one or more files.
+EXIT           Quits the CMD.EXE program (command interpreter).
+FC             Compares two files or sets of files, and displays the 
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FOR            Runs a specified command for each file in a set of files.
+FORMAT         Formats a disk for use with Windows.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension 
+               associations.
+GOTO           Directs the Windows command interpreter to a labeled line in 
+               a batch program.
+GPRESULT       Displays Group Policy information for machine or user.
+GRAFTABL       Enables Windows to display an extended character set in 
+               graphics mode.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and 
+               directories.
+IF             Performs conditional processing in batch programs.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+MOVE           Moves one or more files from one directory to another 
+               directory.
+OPENFILES      Displays files opened by remote users for a file share.
+PATH           Displays or sets a search path for executable files.
+PAUSE          Suspends processing of a batch file and displays a message.
+POPD           Restores the previous value of the current directory saved by 
+               PUSHD.
+PRINT          Prints a text file.
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RD             Removes a directory.
+RECOVER        Recovers readable information from a bad or defective disk.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+REPLACE        Replaces files.
+RMDIR          Removes a directory.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SET            Displays, sets, or removes Windows environment variables.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+TITLE          Sets the window title for a CMD.EXE session.
+TREE           Graphically displays the directory structure of a drive or 
+               path.
+TYPE           Displays the contents of a text file.
+VER            Displays the Windows version.
+VERIFY         Tells Windows whether to verify that your files are written
+               correctly to a disk.
+VOL            Displays a disk volume label and serial number.
+XCOPY          Copies files and directory trees.
+WMIC           Displays WMI information inside interactive command shell.
+
+For more information on tools see the command-line reference in the online help.
+Volume in drive C: has no label
+Volume Serial Number is 2E0F-9585
+
+
+Status for device CON:
+----------------------
+    Lines:          300
+    Columns:        80
+    Keyboard rate:  31
+    Keyboard delay: 1
+    Code page:      437
+
+PATH=C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+Press any key to continue . . . 
+
+Microsoft Windows [Version 6.1.7601]
+VERIFY is off.
+0 File(s) copied
+
